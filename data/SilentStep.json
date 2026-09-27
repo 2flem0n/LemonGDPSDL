@@ -1,26 +1,13 @@
 {
-    "id": 1108,
+    "id": 11,
     "name": "OG Silent Step",
-    "author": "brstudios",
+    "author": "Tht1BRS",
     "creators": [],
-    "verifier": "Upsilony",
+    "verifier": "Lem0n",
     "difficulty": "Extreme Demon",
     "password": "Free Copy",
-    "verification": "https://youtu.be/hm9YezTyBiQ",
-    "percentToQualify": 41,
+    "verification": "https://youtu.be/CIfIYpuOe0k",
+    "percentToQualify": 70,
     "records": [
-        {
-            "user": "test",
-            "link": "https://youtu.be/CcQ3A7ROEAo",
-            "percent": 100,
-            "hz": "60",
-            "mobile": true
-        },
-        {
-            "user": "test2",
-            "link": "https://www.youtube.com/watch?v=0wOvPqaBauo",
-            "percent": 100,
-            "hz": "360"
-        }
     ]
 }
