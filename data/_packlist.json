@@ -2,6 +2,7 @@
     {   
         "name": "2026 Top 3",
         "levels": [
+            "1p4Circles",
             "SilentStep"
         ],
         "colour": "linear-gradient(to bottom, #fefb22 0%, #12ecec 100%)"
@@ -9,6 +10,7 @@
     {   
         "name": "Top 1",
         "levels": [
+            "1p4Circles",
             "SilentStep"
         ],
         "colour": "#ff0000"
