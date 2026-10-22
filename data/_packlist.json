@@ -2,6 +2,7 @@
     {   
         "name": "2026 Top 3",
         "levels": [
+            "PT1",
             "1p4Circles",
             "SilentStep"
         ],
@@ -10,6 +11,7 @@
     {   
         "name": "Top 1",
         "levels": [
+            "PT1",
             "1p4Circles",
             "SilentStep"
         ],
